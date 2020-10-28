@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Management of Hyperkalaemia in the Community and Out-patient Clinic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="humor" changedate="20201028T121304Z" creationid="humor" creationdate="20201028T121304Z">
+        <seg>Management of Hyperkalaemia in the Community and Out-patient Clinic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Section I</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="humor" changedate="20201028T121239Z" creationid="humor" creationdate="20201028T121057Z">
+        <seg>第1部分</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
